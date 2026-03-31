@@ -1,0 +1,4 @@
+weaviate-client[agents]
+python-dotenv
+rich
+
